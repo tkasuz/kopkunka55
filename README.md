@@ -4,6 +4,7 @@
 
 ### Certifications
 
+<p align="center">
 <img src="certifications/aws-certified-solutions-architect-professional.png" width="100" height="100">
 <img src="certifications/aws-certified-solutions-architect-associate.png" width="100" height="100">
 <img src="certifications/aws-certified-developer-associate.png" width="100" height="100">
@@ -14,6 +15,7 @@
 <img src="certifications/aws-certified-cloud-practitioner.png" width="100" height="100">
 <img src="certifications/ckad-certified-kubernetes-application-developer.png" width="100" height="100">
 <img src="certifications/cka-certified-kubernetes-administrator.png" width="100" height="100">
+</p>
 <!--
 **kopkunka55/kopkunka55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
