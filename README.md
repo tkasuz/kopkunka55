@@ -6,6 +6,7 @@
 
 <p align="center">
 <img src="certifications/aws-certified-solutions-architect-professional.png" width="100" height="100">
+<img src="certifications/aws-certified-devops-engineer-professional.png" width="100" height="100">
 <img src="certifications/aws-certified-solutions-architect-associate.png" width="100" height="100">
 <img src="certifications/aws-certified-developer-associate.png" width="100" height="100">
 <img src="certifications/aws-certified-sysops-administrator-associate.png" width="100" height="100">
