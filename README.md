@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![kopkunka55's GitHub stats](https://github-readme-stats.vercel.app/api?username=kopkunka55)](https://github.com/anuraghazra/github-readme-stats)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kopkunka55)
+[![tkasuz's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkasuz)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=tkasuz)
 
 
 ### Certifications
